@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", canal uno
+http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist_b500000.m3u8?encoded=00d72b5df8db95dee0a60
+#EXTINF:0 type="stream" channelId="1409", city tv
+https://live5.userapi.com/637602/live/4_m40opCfZY/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", rcn television
+https://live6.userapi.com/639913/live/y5XU-plCfYU7-NAB/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", caracol
+https://live3.userapi.com/637606/live/ty1shthCfcQ/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Telecaribe
+https://w4.cdn.anvato.net/live/ephemeral/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/telecaribehd/764k/index.m3u8
+#EXTINF:0 type="stream" channelId="2488", Se�al Colombia
+http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/chunklist_b814000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal Tr3ce
+https://cdn.logicideas.media/canal13live/smil:live.smil/chunklist_b500000.m3u8
+#EXTINF:0 type="stream" channelId="1967", Telemundo
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:0 type="stream" channelId="1955", Canal 5
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(01)/index.m3u8
+#EXTINF:0 type="stream" channelId="1954", Las Estrellas
+http://channels.premiumtutv.com/stream_7_sk_st.m3u8
+#EXTINF:0 type="stream" channelId="1971", Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="2124", Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="1212", animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tele Antillas
+http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist_w1597651657_DVR.m3u8
+#EXTINF:0 type="stream" channelId="-1", Telesistema
+http://69.64.69.92:1935/hits-tv-ch11app/studio/chunklist_DVR.m3u8
+#EXTINF:0 type="stream" channelId="-1", MusicChoice
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2816", la Sexta HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?
+#EXTINF:0 type="stream" channelId="-1", A3SERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?
+#EXTINF:0 type="stream" channelId="-1", Pasiones
+https://latamonly-lh.akamaihd.net/i/pasiones_1@580283/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", tlnovelas
+http://142.0.43.4:25461/live/televall1/televall-01/58.m3u8
+#EXTINF:0 type="stream" channelId="-1", Imagen TV
+http://142.0.43.4:25461/live/televall1/televall-01/4.m3u8
+#EXTINF:0 type="stream" channelId="-1", panamericana
+https://stream-04.nyc.dailymotion.com/38/dm/3/x18w5up/live-0.m3u8
+#EXTINF:0 type="stream" channelId="-1", canal de las estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:0 type="stream" channelId="-1", Directv Sports
+http://165.227.46.51/loadbalance/63169458939461572747/chunks.m3u8?pxAuth=wu1HAxeusZhN51i6T9EwY61lVcPcic5b
+#EXTINF:0 type="stream" channelId="-1", azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Az Corazon
+https://latamonly-lh.akamaihd.net/i/azcorazon_1@571257/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", AZTECA A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="-1", Azteca 7
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Az Mundo
+https://latamonly-lh.akamaihd.net/i/azmundo_1@571254/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Az Click!
+https://latamonly-lh.akamaihd.net/i/azclick_1@571255/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", MEGA ESPANA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 type="stream" channelId="-1", nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=oN
+#EXTINF:0 type="stream" channelId="-1", wow tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:0 type="stream" channelId="-1", CHV
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+#EXTINF:0 type="stream" channelId="-1", canal 4
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+#EXTINF:0 type="stream" channelId="-1", A3S
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="-1", neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?www.tecnotv.info?
+#EXTINF:0 type="stream" channelId="-1", UNICANAL
+http://strm.unicanal.com.py/live/unicanal_src.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 type="stream" channelId="-1", LA SEXTA HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 type="stream" channelId="-1", El Gourmet
+http://189.216.247.113/Content/HLS/Live/Channel(EL_GOURMET)/Stream(01)/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", adn 40
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="-1", Mtv
+http://channels.premiumtutv.com/stream_10_sk_st.m3u8
+#EXTINF:0 type="stream" channelId="-1", anime tv
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:0 type="stream" channelId="-1", Locomotion tv
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
